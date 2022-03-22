@@ -1,0 +1,39 @@
+body {
+    font-family: cursive;
+    background-color: white;
+}
+.container {
+    width: 750px;
+    height: 500px;
+    justify-content: space-between;
+    margin: 0px auto;
+    display: flex;
+}
+.user-card {
+    background-color: white;
+    width: 100%;
+    border: 2px solid lightgray;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.spacebar {
+    background-color: teal;
+    height: 120px;
+    margin-bottom: 50px;
+}
+.body {
+    padding: 15px;
+}
+.body h1,
+.body h3,
+.body p {
+    margin: 15px 0px;
+}
+.circle {
+    border-radius: 65%;
+    background-color: beige;
+    padding: 5px;
+    margin-top: 80px;
+    margin-left: 20px;
+}

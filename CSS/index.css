@@ -1,0 +1,17 @@
+h1{
+    background-color: black;
+    font-family: cursive;
+}
+h2{
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+h3{
+    color:navy;
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+}

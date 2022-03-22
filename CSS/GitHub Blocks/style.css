@@ -1,0 +1,29 @@
+* {
+    font-family: cursive;
+}
+img {
+    height: 200px;
+}
+.container {
+    width: 900px;
+    background-color: skyblue;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    background-color: darkblue;
+    margin: 20px;
+    padding: 20px
+    
+}
+.mid {
+    background-color: maroon;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.bottom {
+    background-color: palevioletred;
+}

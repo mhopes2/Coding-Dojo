@@ -1,0 +1,19 @@
+body {
+    font-family: cursive;
+}
+.box {
+    width: 300px;
+    border: 2px solid black;
+    padding: 10px;
+}
+.topRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.like {
+    background-color: goldenrod;
+    box-shadow: 2px 2px black;
+    width: 80px;
+    height: 30px;
+}

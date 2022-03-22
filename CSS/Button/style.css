@@ -1,0 +1,29 @@
+.search, .add, .createaccount {
+    display:block;
+    margin-bottom: 10px;
+    height: 40px;
+}
+.search {
+    font-weight: 900;
+    width: 100px;
+    color: aqua;
+    border: 2px solid aqua;
+    border-radius: 20px;
+    background-color: snow;
+}
+.add {
+    font-weight: 900;
+    width: 40px;
+    color: white;
+    background-color: aqua;
+    border-radius: 50px;
+    border: none;
+}
+.createaccount {
+    font-weight: 900;
+    width: 140px;
+    color: white;
+    background-color: cornflowerblue;
+    border: 2px solid navy;
+    box-shadow: 3px 3px black;
+}

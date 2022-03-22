@@ -1,0 +1,14 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+p{
+    font-size: 36px;
+    color: blue;
+    background-color: bisque;
+}
+
+tr td{
+    color:blueviolet;
+} 

@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: cursive;
+  background-color: white;
+}
+.header {
+  background-color: darkslategrey;
+  padding: 20px;
+  color: white;
+  font-size: 24px;
+  display: flex;
+}
+.header_links {
+  width: 50%;
+  display: flex;
+  text-align: center;
+  list-style-type: none;
+  justify-content: space-around;
+}
+.header a {
+  color: white;
+  text-decoration: none;
+}
+.header_home {
+  margin-left: 20px;
+}
+.out {
+  height: 35px;
+  width: 100px;
+  background-color: teal;
+  color: white;
+  border: none;
+  font-size: 16px;
+  box-shadow: 5px 5px black;
+}
+.row {
+  display: flex;
+}
+.leftcol,
+.rightcol {
+  margin: 10px;
+  padding: 10px;
+  flex: 1;
+}
+.rightcol {
+  flex: 2;
+}
+.container {
+  width: 1080px;
+  margin: 0 auto;
+}
+.user-card {
+  background-color: white;
+  width: 500px;
+  height: 400px;
+  border: 2px solid lightgray;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  overflow: hidden;
+}
+.box {
+  background-color: white;
+  width: 350px;
+  height: 250px;
+  border: 2px solid lightgray;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  overflow: hidden;
+}
+.box-2 {
+  background-color: white;
+  width: 350px;
+  height: 450px;
+  border: 2px solid lightgray;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  overflow: hidden;
+}
+.spacebar1 {
+  background-color: teal;
+  height: 120px;
+  margin-bottom: 50px;
+}
+.body {
+  padding: 0px 6px;
+}
+.body h1,
+.body h3,
+.body p {
+  margin: 15px 0px;
+}
+.circle {
+  border-radius: 65%;
+  background-color: beige;
+  padding: 5px;
+  margin-top: 70px;
+  margin-left: 20px;
+}
+.connectreq {
+  background-color: white;
+  width: 350px;
+  height: 250px;
+  border: 2px solid lightgrey;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  align-items: center;
+}
+.spacebar2 {
+  background-color: slategray;
+  font-size: larger;
+  height: 40px;
+  color: white;
+  padding-left: 60px;
+}
+.users-list {
+  border-radius: 50%;
+  background-color: #fff;
+  height: 50px;
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: 20px;
+  display: flex;
+}
+.icons {
+  height: 15px;
+}
+.photo,
+.decision {
+  display: flex;
+  align-items: center;
+}
+.body1 {
+  display: flex;
+}
+.connections {
+  font-size: 20px;
+  height: 24px;
+  color: black;
+  background-color: lightgray;
+  border-radius: 20px;
+  margin-right: 10px;
+  padding: 1px 8px;
+}
+.requestlist {
+  align-items: center;
+}
+
+.bottom {
+  padding: 10px;
+  border-top: 2px solid lightgray;
+  align-items: center;
+}
